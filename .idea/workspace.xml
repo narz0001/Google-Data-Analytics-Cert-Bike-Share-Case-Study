@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Updated Response to Prepare to add specific details on the dataset chosen and the origin of the dataset.">
+    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Started with data transformation.">
       <change afterPath="$PROJECT_DIR$/202304-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202305-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202306-divvy-tripdata.csv" afterDir="false" />
@@ -80,7 +80,7 @@
       <workItem from="1696015738054" duration="2664000" />
       <workItem from="1696018455699" duration="651000" />
       <workItem from="1696019115411" duration="2566000" />
-      <workItem from="1696078508518" duration="5451000" />
+      <workItem from="1696078508518" duration="7311000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Ask section completed.&#10;Added csv files as well.">
       <option name="closed" value="true" />
@@ -138,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696096221653</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Started with data transformation.">
+      <option name="closed" value="true" />
+      <created>1696102646990</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1696102646990</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +171,7 @@
     <MESSAGE value="Completed &quot;Prepare&quot; part of the Analysis." />
     <MESSAGE value="Started with &quot;Process&quot; part of the analysis." />
     <MESSAGE value="Updated Response to Prepare to add specific details on the dataset chosen and the origin of the dataset." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Response to Prepare to add specific details on the dataset chosen and the origin of the dataset." />
+    <MESSAGE value="Started with data transformation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started with data transformation." />
   </component>
 </project>
