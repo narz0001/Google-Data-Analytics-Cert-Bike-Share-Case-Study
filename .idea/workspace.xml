@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Started with data transformation.">
-      <change afterPath="$PROJECT_DIR$/202304-divvy-tripdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/202305-divvy-tripdata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/202306-divvy-tripdata.csv" afterDir="false" />
+    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Concluded &quot;Process&quot; Step.">
+      <change afterPath="$PROJECT_DIR$/202201-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202202-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202203-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202204-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202205-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202206-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202207-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202208-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202209-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202210-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202211-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202212-divvy-tripdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bike_share_analytics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bike_share_analytics.ipynb" afterDir="false" />
     </list>
@@ -80,7 +89,7 @@
       <workItem from="1696015738054" duration="2664000" />
       <workItem from="1696018455699" duration="651000" />
       <workItem from="1696019115411" duration="2566000" />
-      <workItem from="1696078508518" duration="7311000" />
+      <workItem from="1696078508518" duration="15497000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Ask section completed.&#10;Added csv files as well.">
       <option name="closed" value="true" />
@@ -146,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696102646990</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Concluded &quot;Process&quot; Step.">
+      <option name="closed" value="true" />
+      <created>1696104411793</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696104411793</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +189,7 @@
     <MESSAGE value="Started with &quot;Process&quot; part of the analysis." />
     <MESSAGE value="Updated Response to Prepare to add specific details on the dataset chosen and the origin of the dataset." />
     <MESSAGE value="Started with data transformation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started with data transformation." />
+    <MESSAGE value="Concluded &quot;Process&quot; Step." />
+    <option name="LAST_COMMIT_MESSAGE" value="Concluded &quot;Process&quot; Step." />
   </component>
 </project>
