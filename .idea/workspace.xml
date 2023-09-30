@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Started &quot;Analyze&quot; part and added basic visualizations based on user type.">
+    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Major changes:&#10;Changed the dataset from Apr-Jun 2023 to Jan-Dec 2022 to study seasonality and trend.">
       <change afterPath="$PROJECT_DIR$/202201-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202202-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202203-divvy-tripdata.csv" afterDir="false" />
@@ -18,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/202211-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202212-divvy-tripdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bike_share_analytics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bike_share_analytics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +89,7 @@
       <workItem from="1696015738054" duration="2664000" />
       <workItem from="1696018455699" duration="651000" />
       <workItem from="1696019115411" duration="2566000" />
-      <workItem from="1696078508518" duration="16376000" />
+      <workItem from="1696078508518" duration="17562000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Ask section completed.&#10;Added csv files as well.">
       <option name="closed" value="true" />
@@ -170,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696114378260</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Major changes:&#10;Changed the dataset from Apr-Jun 2023 to Jan-Dec 2022 to study seasonality and trend.">
+      <option name="closed" value="true" />
+      <created>1696115552166</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696115552166</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +207,7 @@
     <MESSAGE value="Started with data transformation." />
     <MESSAGE value="Concluded &quot;Process&quot; Step." />
     <MESSAGE value="Started &quot;Analyze&quot; part and added basic visualizations based on user type." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started &quot;Analyze&quot; part and added basic visualizations based on user type." />
+    <MESSAGE value="Major changes:&#10;Changed the dataset from Apr-Jun 2023 to Jan-Dec 2022 to study seasonality and trend." />
+    <option name="LAST_COMMIT_MESSAGE" value="Major changes:&#10;Changed the dataset from Apr-Jun 2023 to Jan-Dec 2022 to study seasonality and trend." />
   </component>
 </project>
