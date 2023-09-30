@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Completed &quot;Prepare&quot; and preliminary data investigation." />
+    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Started with &quot;Process&quot; part of the analysis.">
+      <change afterPath="$PROJECT_DIR$/202304-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202305-divvy-tripdata.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202306-divvy-tripdata.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bike_share_analytics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bike_share_analytics.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,10 +37,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: -1
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2W5HrkryLAajWyRuzIV9MaDgsVP" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,21 +48,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -73,6 +79,8 @@
       <updated>1696015728001</updated>
       <workItem from="1696015738054" duration="2664000" />
       <workItem from="1696018455699" duration="651000" />
+      <workItem from="1696019115411" duration="2566000" />
+      <workItem from="1696078508518" duration="2194000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Ask section completed.&#10;Added csv files as well.">
       <option name="closed" value="true" />
@@ -98,7 +106,31 @@
       <option name="project" value="LOCAL" />
       <updated>1696018208505</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed &quot;Ask&quot; part of the analysis.">
+      <option name="closed" value="true" />
+      <created>1696019260573</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696019260573</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Completed &quot;Prepare&quot; part of the Analysis.">
+      <option name="closed" value="true" />
+      <created>1696019472976</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696019472976</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Started with &quot;Process&quot; part of the analysis.">
+      <option name="closed" value="true" />
+      <created>1696020776935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696020776935</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +151,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit with Ask section completed.&#10;Added csv files as well." />
     <MESSAGE value="Completed &quot;Prepare&quot; and preliminary data investigation." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed &quot;Prepare&quot; and preliminary data investigation." />
+    <MESSAGE value="Completed &quot;Ask&quot; part of the analysis." />
+    <MESSAGE value="Completed &quot;Prepare&quot; part of the Analysis." />
+    <MESSAGE value="Started with &quot;Process&quot; part of the analysis." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started with &quot;Process&quot; part of the analysis." />
   </component>
 </project>
