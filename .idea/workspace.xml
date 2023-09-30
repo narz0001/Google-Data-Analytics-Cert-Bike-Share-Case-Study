@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Concluded &quot;Process&quot; Step.">
+    <list default="true" id="76f18a01-e21d-45fe-900c-593f3d23a7e9" name="Changes" comment="Started &quot;Analyze&quot; part and added basic visualizations based on user type.">
       <change afterPath="$PROJECT_DIR$/202201-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202202-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202203-divvy-tripdata.csv" afterDir="false" />
@@ -18,7 +18,6 @@
       <change afterPath="$PROJECT_DIR$/202211-divvy-tripdata.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/202212-divvy-tripdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bike_share_analytics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bike_share_analytics.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <workItem from="1696015738054" duration="2664000" />
       <workItem from="1696018455699" duration="651000" />
       <workItem from="1696019115411" duration="2566000" />
-      <workItem from="1696078508518" duration="15497000" />
+      <workItem from="1696078508518" duration="16376000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit with Ask section completed.&#10;Added csv files as well.">
       <option name="closed" value="true" />
@@ -163,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696104411793</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Started &quot;Analyze&quot; part and added basic visualizations based on user type.">
+      <option name="closed" value="true" />
+      <created>1696114378260</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696114378260</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +197,7 @@
     <MESSAGE value="Updated Response to Prepare to add specific details on the dataset chosen and the origin of the dataset." />
     <MESSAGE value="Started with data transformation." />
     <MESSAGE value="Concluded &quot;Process&quot; Step." />
-    <option name="LAST_COMMIT_MESSAGE" value="Concluded &quot;Process&quot; Step." />
+    <MESSAGE value="Started &quot;Analyze&quot; part and added basic visualizations based on user type." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started &quot;Analyze&quot; part and added basic visualizations based on user type." />
   </component>
 </project>
